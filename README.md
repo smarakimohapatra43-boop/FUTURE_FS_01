@@ -13,7 +13,7 @@ It also includes a working contact form with email notifications and MongoDB dat
 ---
 
 # 🚀 Live Demo
-https://future-fs-01-palf.vercel.app/
+https://future-fs-01-ongj-qtcn3pvux-smarakimohapatra43-boops-projects.vercel.app/
 ---
 
 # 📌 Features
